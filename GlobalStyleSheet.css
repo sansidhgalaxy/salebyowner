@@ -2,7 +2,9 @@ head, body {
 /*    background: linear-gradient(180deg, #fc9803, #fc6203);
     opacity: 0.6;*/
     background: #ffffff;
-    margin: 10px;
+    margin:2px;
+    margin-left: 10px;
+    margin-top: 2px;
 
 }
 body {
